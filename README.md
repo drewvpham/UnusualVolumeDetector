@@ -9,7 +9,7 @@ This scans every ticker on the market, gets their last 5 months of volume histor
 
 ## How to run this:
 
--download your favorite Python IDE. (I use atom [https://atom.io/])
+-download your favorite Python IDE. (I use [atom](https://atom.io/))
 
 -clone my repo from GitHub
 
@@ -33,3 +33,4 @@ This scans every ticker on the market, gets their last 5 months of volume histor
 - [x] Scan unusual stock activity
 - [ ] Send daily text messages near eod/utilize lambdas to automate
 - [ ] Create reddit bot component to post unusual activity to WSB
+- [ ] Configure more parameters to cut down on runtime (50mins)
